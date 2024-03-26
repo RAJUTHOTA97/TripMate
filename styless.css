@@ -48,7 +48,7 @@ body{
     margin: 10px auto;
      position: absolute;
      top: 55%;
-     left: 12%;
+     left: 15%;
      height: 41%;
 
      
@@ -64,7 +64,7 @@ body{
  .gallery div img:hover{
     
         cursor: pointer;
-        filter: grayscale(0%);
+         
         transform: scale(1.13);
      
    
